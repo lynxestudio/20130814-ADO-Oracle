@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Samples.Data.exe.config
+c:\users\administrator\documents\visual studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Samples.Data.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Samples.Data.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Samples.Data\Samples.Data\obj\x86\Debug\Samples.Data.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Samples.Data\Samples.Data\obj\x86\Debug\Samples.Data.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Samples.Data.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Samples.Data\Samples.Data\obj\x86\Debug\Samples.Data.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Samples.Data\Samples.Data\obj\x86\Debug\Samples.Data.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Samples.Data.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Samples.Data\Samples.Data\bin\Debug\Samples.Data.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Samples.Data\Samples.Data\obj\x86\Debug\ResolveAssemblyReference.cache
