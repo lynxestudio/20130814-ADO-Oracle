@@ -25,4 +25,8 @@ Para probar este ADO Helper escribe un formario que guarda un registro en una ba
 <IMG src="images/OraAdo3.png">
 </div>
 </p>
+<p>
+Este programa utiliza la base de datos HR de Oracle, la cual puede ser descargada aqui:
+<a href="https://github.com/oracle-samples/db-sample-schemas">Oracle db samples</a>
+</p>
 
