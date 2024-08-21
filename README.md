@@ -14,15 +14,15 @@ Las clases que componen el ADO Helper para Oracle son las siguientes:
 Para probar este ADO Helper escribe un formario que guarda un registro en una base de datos Oracle Express XE como se ve en loa siguientes screenshots.
 <div><b>Fig 1. Programa que crea, consulta un empleado en la base de datos.</b></div><br>
 <div>
-<IMG src="images/oraAdo1.png">
+<IMG src="images/OraAdo1.png">
 </div>
 <div><b>Fig 2. Creando un empleado en la base de datos.</b></div><br>
 <div>
-<IMG src="images/oraAdo2.png">
+<IMG src="images/OraAdo2.png">
 </div>
 <div><b>Fig 3. Consultando los empleados en la base de datos.</b></div><br>
 <div>
-<IMG src="images/oraAdo3.png">
+<IMG src="images/OraAdo3.png">
 </div>
 </p>
 
